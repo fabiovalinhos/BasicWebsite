@@ -6,4 +6,6 @@ Simple website for records of some data.
 Just training through Laravel.  
 
 For frontend  
-- Bootstrap
+- Bootstrap  
+
+Instructor: Samy Eduonix
