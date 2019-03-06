@@ -32,7 +32,7 @@
 
     <footer id="footer" class="footer mt-auto py-3 text-center text-muted">
         <div class="container">
-            Copyright 2019 &copy; Acme
+            Copyright <?php echo date("Y"); ?> &copy; Acme
         </div>
     </footer>
     
